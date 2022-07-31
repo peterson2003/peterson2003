@@ -1,4 +1,5 @@
-## Olá! Eu sou o Peterson Santos, Dev. Jr.
+## Hi! I'm Peterson, Junior Developer.
+
 
 <div align="center">
   <a href="https://github.com/peterson2003">
