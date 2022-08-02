@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Peter-pic" height="150" style="border-radius:50px;" src="https://o.remove.bg/downloads/7027df27-569c-4d5d-923d-6006af4b7873/WhatsApp_Image_2022-07-30_at_21.50.46__1_-removebg-preview.png">
+  <img align="right" alt="Peter-pic" height="150" style="border-radius:50px;" src="#">
 </div>
 
 ##
