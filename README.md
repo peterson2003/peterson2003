@@ -1,4 +1,4 @@
-## Hi! I'm Peterson, Junior Developer.
+## Hi... I'm Peterson, Front-End Developer Jr.
 
 
 <div align="center">
